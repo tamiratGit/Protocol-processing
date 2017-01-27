@@ -21,6 +21,7 @@ Ok, now all necessary files added, but changes still reflected only localy.
 To make changes appear in repository, you've got to
 
 git commit -m "First commit"
+git push
 
 Here you go, have fun, please add something(like name) to dummy.txt
 
