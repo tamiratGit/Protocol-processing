@@ -27,11 +27,18 @@ Here you go, have fun, please add something(like name) to dummy.txt
 
 Here is short sequence to do just that:
 
+
 _git clone https://github.com/sginne/Protocol-processing.git_ (Clones remote repository locally)
+
 _cd Protocol-processing_ (Traverse into newly created directory)
+
 _kate dummy.txt_ (you might use something else for editting, of course)
+
 _git add dummy.txt_ (Allegedly you want to update dummy.txt)
+
 _git commit -m "Comment"_ (Commits with short message)
+
 _git push_ (Pushes local files to remote repository)
+
 
 -Timo Junolainen
