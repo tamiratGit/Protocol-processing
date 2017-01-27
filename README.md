@@ -23,3 +23,5 @@ To make changes appear in repository, you've got to
 git commit -m "First commit"
 
 Here you go, have fun, please add something(like name) to dummy.txt
+
+-Timo Junolainen
